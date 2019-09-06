@@ -1,3 +1,5 @@
+src/macarontemplates
+
 # http://www.gnu.org/software/automake
 
 Makefile.in
@@ -16,6 +18,8 @@ Makefile.in
 /compile
 /config.guess
 /config.h.in
+/config.log
+/config.status
 /config.sub
 /configure
 /configure.scan
@@ -23,6 +27,7 @@ Makefile.in
 /install-sh
 /missing
 /stamp-h1
+.deps
 
 # https://www.gnu.org/software/libtool/
 
@@ -40,3 +45,6 @@ m4/ltsugar.m4
 m4/ltversion.m4
 m4/lt~obsolete.m4
 autom4te.cache
+
+# cpp
+*.o
