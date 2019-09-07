@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package config;
+
+message MacaronTemplatesConfig {
+	double diameter = 1;
+	double buffer = 2;
+	double padding = 3;
+	double canvas_width = 4;
+	double canvas_height = 5;
+	double margin = 6;
+}

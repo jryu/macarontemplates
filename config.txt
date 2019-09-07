@@ -1,0 +1,6 @@
+diameter: 150
+buffer: 25
+padding: 35
+canvas_width: 1600
+canvas_height: 1000
+margin: 45

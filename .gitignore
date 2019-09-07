@@ -1,4 +1,7 @@
 src/macarontemplates
+*.pdf
+*.pb.h
+*.pb.cc
 
 # http://www.gnu.org/software/automake
 
